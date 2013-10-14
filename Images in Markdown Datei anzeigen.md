@@ -1,0 +1,1 @@
+![Alt text](img/Dropbox FH Proxy Einstellungen.PNG)
