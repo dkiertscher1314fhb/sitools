@@ -2,4 +2,4 @@ sitools
 =======
 
 Anwendungsanleitungen für im Projekt verwendete Werkzeuge
-(Dropbox FH Proxy Einstellungen.PNG)
+![Alt text](Dropbox FH Proxy Einstellungen.PNG)
