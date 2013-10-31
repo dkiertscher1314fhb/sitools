@@ -1,4 +1,4 @@
 sitools
 =======
 
-Anwendungsanleitungen fÃ¼r im Projekt verwendete Werkzeuge
+Anwendungsanleitungen für im Projekt verwendete Werkzeuge
